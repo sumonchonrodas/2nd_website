@@ -157,3 +157,58 @@ font-weight: 800;
     width: 400px;
     border-radius: 5px;
 }
+/* get update styles */
+.get-up-date{
+    margin-bottom: 80px;
+
+}
+.get-up-date-title{
+    font-size: 50px;
+    margin: 40px 0;
+    font-weight: 900;
+
+}
+.get-up-date-description{
+    margin: 0  380px 50px;
+    color: rgb(158, 158, 158)
+
+    
+;
+}
+.form{
+    background-color: antiquewhite;
+    height:150px;
+    width: 700px;
+    margin: 0 auto;
+}
+input{
+    padding: 15px;
+    font-size: 15px;
+    border: none;
+}
+.btn-primary2{
+    color: white;
+background-color: orangered;
+border: none;
+padding: 15px;
+margin-top: 60px;
+/* align-content: center;
+font-size: 15px; */
+
+}
+footer{
+    background-color: rgb(36, 29, 29);
+    height: 120px;
+}
+.footer-title{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(235, 161, 134);
+    text-align: center;
+    padding: 20px;
+    font-size: 28px;
+}
+.footer-title-sub{
+    text-align: center;
+    color: white;
+
+}
