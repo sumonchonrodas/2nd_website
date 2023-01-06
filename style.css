@@ -70,7 +70,7 @@ font-weight: 800;
     padding: 30px;
     font-weight: 700;
     font-size: 40px;
-    color: rgb(157, 153, 153);
+    /* color: rgb(157, 153, 153); */
 }
 .other-amt{
     margin-bottom: 20px;
@@ -151,6 +151,12 @@ font-weight: 800;
     
     height: 400px;
     width: 400px;
+    border-radius: 5px;
+}
+.takar-box{
+    background-color: rgb(233, 224, 221);
+    color: orangered;
+    border:3px solid orangered;
     border-radius: 5px;
 }
 /* get update styles */
