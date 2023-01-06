@@ -3,7 +3,7 @@
     font-family: 'Open Sans', sans-serif;
 }
 main{
-    margin: 0 auto;
+    text-align: center;
 }
 /* Here we going ho to style header */
 .header{
@@ -42,4 +42,40 @@ border: none;
 padding: 10px;
 border-radius: 5px;
 margin-top: 30px;
+}
+
+/* here is donnate taka part style */
+.donate{
+
+    margin-top: 100px;
+}
+.donate-title{
+font-size: 45px;
+font-weight: 800;
+}
+.donate-description{
+    margin-top: 40px;
+    margin-left: 310px;
+    margin-right: 300px;
+}
+.donate-taka{
+    display: flex;
+    justify-content: center;
+}
+.donate-taka p{
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+    padding: 30px;
+    font-weight: 700;
+    font-size: 40px;
+    color: rgb(157, 153, 153);
+}
+.other-amt{
+    margin-bottom: 20px;
+    color: rgb(158, 157, 157);
+    font-size: 18px;
+}
+.other-amt hr{
+    color: rgb(158, 157, 157);
 }
