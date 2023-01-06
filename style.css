@@ -1,11 +1,45 @@
-.bg-color{
-    background-color: rgb(174, 163, 163);
-    padding: 20px;
-    border-radius: 5%;
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
 }
-.font-cl{
-    font-size: 40px;
+main{
+    margin: 0 auto;
+}
+/* Here we going ho to style header */
+.header{
+    background-image: url("images/donation1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: center;
+    height:100vh;
+    width: 100%;
+    background-blend-mode:hard-light;
+}
+.header-content{
 
+    padding: 150px;
+}
 
+.header-title{
+ color: white;
+ font-weight: 800;
+ font-size: 70px;
+}
+.header-sub-title{
+    color: white;
+    font-weight: 800;
+    font-size: 80px;
+}
+.header-description{
+    color: white;
+    padding: 0 150px;
+    
+}
+.btn-primary{
+color: white;
+background-color: orangered;
+border: none;
+padding: 10px;
+border-radius: 5px;
+margin-top: 30px;
 }
