@@ -79,3 +79,52 @@ font-weight: 800;
 .other-amt hr{
     color: rgb(158, 157, 157);
 }
+/* here is donate plane styles */
+.donate-plane{
+    justify-content: center;
+
+}
+.donate-plane-title{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    font-weight:bold;
+}
+.donate-plane-description{
+    margin: 0 400px;
+    color: rgb(158, 156, 156);
+
+
+}
+.donate-plane-item{
+ display: flex;
+ gap: 30px;
+ text-align: left;
+ padding: 100px;
+}
+.food-title{
+    margin: 20px 0;
+    font-size: 20px;
+
+}
+.food-description{
+
+}
+.food{
+
+    background-color: rgb(221, 226, 245);
+    border-radius: 10px;
+    padding: 50px;
+}
+.shelter{
+
+    background-color:rgb(255, 202, 211);
+    border-radius: 10px;
+    padding: 50px;
+}
+.education{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 50px;
+
+}
